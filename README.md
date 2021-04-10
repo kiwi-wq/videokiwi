@@ -1,6 +1,6 @@
 [
   {
-    "ویدیو یک": "https://uupload.ir/files/uxpq_how-to-train-your-dragon-2-2014.jpg",
+    "ویدیو یک": "https://uupload.ir/files/pv89_1618061797755.jpg",
     "ویدیو دو": "..."
   }
 ]
