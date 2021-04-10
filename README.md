@@ -1,6 +1,6 @@
 [
   {
-    "ویدیو یک": "https://uupload.ir/files/e0cu_1618062260880.jpg",
+    "ویدیو یک": "https://uupload.ir/files/u3fl_1618062684074.jpg",
     "ویدیو دو": "..."
   }
 ]
